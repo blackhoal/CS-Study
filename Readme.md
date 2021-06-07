@@ -5,22 +5,27 @@
 04. 관계형 데이터베이스
 05. SQL
 06. 트랜잭션
+07. 기술 면접 정리
 #
 
 # ② 운영체제
 01. 운영체제 개요
-02. 
-03. 
-04. 
-05. 
+02. 프로세스 / 스레드
+03. 스케줄러 / CPU 스케줄링
+04. 교착상태 / 문맥 교환
+05. 페이지 교체 알고리즘
+06. 메모리
+07. 쉘 스크립트
+08. 기술 면접 정리
 #
 
 # ③ 네트워크
 01. 네트워크 개요
-02. 
-03. 
-04. 
-05. 
+02. 웹 동작 방식
+03. OSI 7계층
+04. TCP/IP / TCP VS UDP
+05. HTTP VS HTTPS
+06. 기술 면접 정리
 #
 
 # ④ 자료구조
@@ -30,6 +35,7 @@
 04. Graph / Tree / Heap  
 05. Hash Table
 06. 문자열 처리  
+07. 기술 면접 정리
 #
 
 # ⑤ 알고리즘
@@ -46,7 +52,6 @@
 #
 
 # ⑥ Conference
-①②③④⑤⑥  
 [학습 자료 1](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)  
 [학습 자료 2](https://gyoogle.dev/blog/)  
 [학습 자료 3](https://www.notion.so/Guide-b0c0d2c343f24ba5bb274e21630117b2#f31d028355474f3eba3c3039755fc9ee)  
