@@ -2,10 +2,13 @@
 ## 데이터베이스 개요
 ## Index
 ## 정규화
+#
 
 # 운영체제
+#
 
 # 네트워크
+#
 
 # Conference
 [CS 학습 자료](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)  
