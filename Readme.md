@@ -52,7 +52,7 @@
 #
 
 # ⑥ Conference
-[학습 자료 1](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)  
-[학습 자료 2](https://gyoogle.dev/blog/)  
-[학습 자료 3](https://www.notion.so/Guide-b0c0d2c343f24ba5bb274e21630117b2#f31d028355474f3eba3c3039755fc9ee)  
-[백엔드 개발자 로드맵](https://roadmap.sh/backend)  
+[자료 1 - CS 1](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)  
+[자료 2 - CS 2](https://gyoogle.dev/blog/)  
+[자료 3 - 개발직 면접 준비](https://www.notion.so/Guide-b0c0d2c343f24ba5bb274e21630117b2#f31d028355474f3eba3c3039755fc9ee)  
+[자료 4 - 백엔드 개발자 로드맵](https://roadmap.sh/backend)  
