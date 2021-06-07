@@ -1,6 +1,6 @@
 # ① 데이터베이스
 01. 데이터베이스 개요
-02. 
+02. 데이터 모델링
 03. 
 04. 
 05. 
@@ -27,7 +27,8 @@
 02. Array / LinkedList  
 03. Stack / Queue / Deque  
 04. Graph / Tree / Heap  
-05. 문자열 처리  
+05. Hash Table
+06. 문자열 처리  
 #
 
 # ⑤ 알고리즘
@@ -44,7 +45,7 @@
 #
 
 # ⑥ Conference
-①②③④⑤⑥
+①②③④⑤⑥  
 [학습 자료 1](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)  
 [학습 자료 2](https://gyoogle.dev/blog/)  
 [학습 자료 3](https://www.notion.so/Guide-b0c0d2c343f24ba5bb274e21630117b2#f31d028355474f3eba3c3039755fc9ee)  
