@@ -60,12 +60,14 @@
 ## ① 문법
 > ```
 > Bullet List : 
-> * 사과
-> * 배
+> - 사과
+>   - 빨간 사과
+>   - 파란 사과
+> - 배
 > 
 > Other Bullet List :
-> - 감
-> - 포도
+> * 감
+> * 포도
 > 
 > Numbered List : 
 > 1. 딸기
@@ -74,12 +76,14 @@
 > ```
 ## ② Preview
 > Bullet List : 
-> * 사과
-> * 배
+> - 사과
+>   - 빨간 사과
+>   - 파란 사과
+> - 배
 > 
 > Other Bullet List :
-> - 감
-> - 포도
+> * 감
+> * 포도
 > 
 > Numbered List : 
 > 1. 딸기
@@ -149,7 +153,6 @@
 > }
 > ```
 > ~~~
-
 > ```
 > ~~~java
 > public class Project { 
@@ -159,16 +162,27 @@
 > }
 > ~~~
 > ```
-
 ## ② Preview
-> ~~~java
+> ```java
 > public class Project { 
 >   public static void main(String[] args) { 
 >     system.out.println("Hello, World!");
 >   }
 > }
-> ~~~
+> ```
 #
+
+# 10. Check Box
+## ① 문법
+```
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+```
+## ② Preview
+- [x] Finished Todo
+- [ ] Not Finished Todo 1
+- [ ] Not Finished Todo 2
 
 # Conference
 [드림코딩 by 엘리 Youtube](https://www.youtube.com/watch?v=kMEb_BzyUqk)  
