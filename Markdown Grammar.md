@@ -29,22 +29,18 @@
 # 3. Text Attributes
 ## ① 문법
 > ```
-> This is the **bold** text and this is the *italic* text and let's do ~~strikethrough~~.
-> 
-> *single asterisks*  
-> _single underscores_  
-> **double asterisks**  
-> __double underscores__  
-> ~~cancelline~~  
+> *single asterisks → italic*  
+> _single underscores → italic_  
+> **double asterisks → bold**  
+> __double underscores → bold__  
+> ~~cancelline → strikethrough~~  
 > ```
 ## ② Preview
-> This is the **bold** text and this is the *italic* text and let's do ~~strikethrough~~.
-> 
-> *single asterisks*  
-> _single underscores_  
-> **double asterisks**  
-> __double underscores__  
-> ~~cancelline~~  
+> *single asterisks → italic*  
+> _single underscores → italic_  
+> **double asterisks → bold**  
+> __double underscores → bold__  
+> ~~cancelline → strikethrough~~  
 #
 
 # 4. Block Quote
