@@ -1,4 +1,5 @@
 # 1. Level 1 - 탐욕법 / 체육복
+[문제 1](https://programmers.co.kr/learn/courses/30/lessons/42862)
 ## ① Python 구현
 ```python
 def solution(n, lost, reserve):
@@ -104,6 +105,7 @@ class Solution {
 #
 
 # 2. Level 1 - 완전탐색 / 모의고사
+[문제 2](https://programmers.co.kr/learn/courses/30/lessons/42840)
 ## ① Python 구현
 ```python
 def solution(answers):
