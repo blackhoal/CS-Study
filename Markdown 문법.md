@@ -89,84 +89,85 @@
 
 # 6. Link
 ## ① 문법
-```
-1. 링크  
-Link : [Google](https://google.com, "google link")  
-
-2. 자동연결 : 주소가 일반적인 URL 혹은 이메일 주소일 경우 적절한 형식으로 링크를 형성  
-외부 링크 : <http://example.com/>  
-이메일 링크 : <address@example.com>  
-```
+> ```
+> 1. 링크  
+> Link : [Google](https://google.com, "google link")  
+> 
+> 2. 자동연결 : 주소가 일반적인 URL 혹은 이메일 주소일 경우 적절한 형식으로 링크를 형성  
+> 외부 링크 : <http://example.com/>  
+> 이메일 링크 : <address@example.com>  
+> ```
 ## ② Preview
-1. 링크  
-Link : [Google](https://google.com, "google link")  
-
-2. 자동연결 : 주소가 일반적인 URL 혹은 이메일 주소일 경우 적절한 형식으로 링크를 형성  
-외부 링크 : <http://example.com/>  
-이메일 링크 : <address@example.com>  
+> 1. 링크  
+> Link : [Google](https://google.com, "google link")  
+> 
+> 2. 자동연결 : 주소가 일반적인 URL 혹은 이메일 주소일 경우 적절한 형식으로 링크를 형성  
+> 외부 링크 : <http://example.com/>  
+> 이메일 링크 : <address@example.com>  
 #
 
 # 7. Image
 ## ① 문법
-```
-![Image Description](이미지 주소)  
-<img src = "이미지 주소" height = "300px" title = "크기 변경 1" alt = "Slowpoke"></img><br/>
-<img src = "이미지 주소" width = "40%" height = "30%" title = "크기 변경 2" alt = "Slowpoke"></img>
-
-```
+> ```
+> ![Image Description](이미지 주소)  
+> <img src = "이미지 주소" height = "300px" title = "크기 변경 1" alt = "Slowpoke"></img><br/>
+> <img src = "이미지 주소" width = "40%" height = "30%" title = "크기 변경 2" alt = "Slowpoke"></img>
+> ```
 ## ② Preview
-![Image Description](https://static.wikia.nocookie.net/pokemon/images/1/18/%EC%95%BC%EB%8F%88_%EA%B3%B5%EC%8B%9D_%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8.png/revision/latest/scale-to-width-down/200?cb=20170405020231&path-prefix=ko)  
-<img src = "https://static.wikia.nocookie.net/pokemon/images/1/18/%EC%95%BC%EB%8F%88_%EA%B3%B5%EC%8B%9D_%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8.png/revision/latest/scale-to-width-down/200?cb=20170405020231&path-prefix=ko" height = "300px" title = "크기 변경 1" alt = "Slowpoke"></img><br/>
-<img src = "https://static.wikia.nocookie.net/pokemon/images/1/18/%EC%95%BC%EB%8F%88_%EA%B3%B5%EC%8B%9D_%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8.png/revision/latest/scale-to-width-down/200?cb=20170405020231&path-prefix=ko" width = "40%" height = "30%" title = "크기 변경 2" alt = "Slowpoke"></img>
+> ![Image Description](https://static.wikia.nocookie.net/pokemon/images/1/18/%EC%95%BC%EB%8F%88_%EA%B3%B5%EC%8B%9D_%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8.png/revision/latest/scale-to-width-down/200?cb=20170405020231&path-prefix=ko)  
+
+> <img src = "https://static.wikia.nocookie.net/pokemon/images/1/18/%EC%95%BC%EB%8F%88_%EA%B3%B5%EC%8B%9D_%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8.png/revision/latest/scale-to-width-down/200?cb=20170405020231&path-prefix=ko" height = "300px" title = "크기 변경 1" alt = "Slowpoke"></img><br/>
+
+> <img src = "https://static.wikia.nocookie.net/pokemon/images/1/18/%EC%95%BC%EB%8F%88_%EA%B3%B5%EC%8B%9D_%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8.png/revision/latest/scale-to-width-down/200?cb=20170405020231&path-prefix=ko" width = "40%" height = "30%" title = "크기 변경 2" alt = "Slowpoke"></img>
 #
 
 # 8. Table
 ## ① 문법
-```
-|Header|Description|
-|:--:|:--:| 
-|cell1|cell2|
-|cell1|cell2|
-|cell1|cell2|
-```
+> ```
+> |Header|Description|
+> |:--:|:--:| 
+> |cell1|cell2|
+> |cell1|cell2|
+> |cell1|cell2|
+> ```
 ## ② Preview
-|Header|Description|
-|:--:|:--:| 
-|--:|우측으로 정렬|
-|:--|좌측으로 정렬|
-|:--:|가운데 정렬|
+> |Header|Description|
+> |:--:|:--:| 
+> |--:|우측으로 정렬|
+> |:--|좌측으로 정렬|
+> |:--:|가운데 정렬|
 #
 
 # 9. Code Block
 ## ① 문법
-~~~
-```java
-public class Project { 
-  public static void main(String[] args) { 
-    system.out.println("Hello, World!");
-  }
-}
-```
-~~~
+> ~~~
+> ```java
+> public class Project { 
+>   public static void main(String[] args) { 
+>     system.out.println("Hello, World!");
+>   }
+> }
+> ```
+> ~~~
 
-```
-~~~java
-public class Project { 
-  public static void main(String[] args) { 
-    system.out.println("Hello, World!");
-  }
-}
-~~~
-```
+> ```
+> ~~~java
+> public class Project { 
+>   public static void main(String[] args) { 
+>     system.out.println("Hello, World!");
+>   }
+> }
+> ~~~
+> ```
 
 ## ② Preview
-~~~java
-public class Project { 
-  public static void main(String[] args) { 
-    system.out.println("Hello, World!");
-  }
-}
-~~~
+> ~~~java
+> public class Project { 
+>   public static void main(String[] args) { 
+>     system.out.println("Hello, World!");
+>   }
+> }
+> ~~~
 #
 
 # Conference
