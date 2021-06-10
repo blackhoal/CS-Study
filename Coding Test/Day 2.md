@@ -37,7 +37,7 @@ def solution(n, lost, reserve):
 |테스트 11|통과 (0.01ms, 10.3MB)|
 |테스트 12|통과 (0.00ms, 10.2MB)|
 
-## ③ Java 
+## ③ Java 구현
 ```java
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -86,7 +86,7 @@ class Solution {
     }
 }
 ```
-## ④ Java 
+## ④ Java 결과
 |Test Number|Result|
 |:--:|:--:|
 |테스트 01|통과 (0.08ms, 51.7MB)|
@@ -104,7 +104,7 @@ class Solution {
 #
 
 # 2. Level 1 - 완전탐색 / 모의고사
-## ① Python
+## ① Python 구현
 ```python
 def solution(answers):
     a = [1,2,3,4,5]
@@ -143,7 +143,7 @@ def solution(answers):
 |테스트 12|통과 (2.52ms, 10.1MB)|
 |테스트 13|통과 (0.20ms, 10.2MB)|
 |테스트 14|통과 (2.75ms, 10.2MB)|
-## ③ Java
+## ③ Java 구현
 ```java
 import java.util.ArrayList;
 import java.util.List;
@@ -203,6 +203,3 @@ class Solution {
 |테스트 12|통과 (3.29ms, 52.4MB)|
 |테스트 13|통과 (2.83ms, 53.5MB)|
 |테스트 14|통과 (4.81ms, 53.2MB)|
-
-
-
