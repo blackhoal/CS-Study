@@ -1,6 +1,7 @@
-# 1. Level 1 - 탐욕법 / 체육복
-[문제 1](https://programmers.co.kr/learn/courses/30/lessons/42862)
-## ① Python 구현
+# 체육복 / 탐욕법 / Level 1
+## ① 문제
+[링크](https://programmers.co.kr/learn/courses/30/lessons/42862)
+## ② 구현
 ```python
 def solution(n, lost, reserve):
     for i in reserve :
@@ -22,23 +23,6 @@ def solution(n, lost, reserve):
     
     return answer
 ```
-## ② Python 결과
-|Test Number|Result|
-|:--:|:--:|
-|테스트 01|통과 (0.01ms, 10.2MB)|
-|테스트 02|통과 (0.01ms, 10.3MB)|
-|테스트 03|통과 (0.01ms, 10.2MB)|
-|테스트 04|통과 (0.01ms, 10.3MB)|
-|테스트 05|통과 (0.01ms, 10.2MB)|
-|테스트 06|통과 (0.01ms, 10.2MB)|
-|테스트 07|통과 (0.02ms, 10.1MB)|
-|테스트 08|통과 (0.01ms, 10.2MB)|
-|테스트 09|통과 (0.00ms, 10.4MB)|
-|테스트 10|통과 (0.01ms, 10.2MB)|
-|테스트 11|통과 (0.01ms, 10.3MB)|
-|테스트 12|통과 (0.00ms, 10.2MB)|
-
-## ③ Java 구현
 ```java
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -87,8 +71,23 @@ class Solution {
     }
 }
 ```
-## ④ Java 결과
-|Test Number|Result|
+## ③ 결과
+|Python|Result|
+|:--:|:--:|
+|테스트 01|통과 (0.01ms, 10.2MB)|
+|테스트 02|통과 (0.01ms, 10.3MB)|
+|테스트 03|통과 (0.01ms, 10.2MB)|
+|테스트 04|통과 (0.01ms, 10.3MB)|
+|테스트 05|통과 (0.01ms, 10.2MB)|
+|테스트 06|통과 (0.01ms, 10.2MB)|
+|테스트 07|통과 (0.02ms, 10.1MB)|
+|테스트 08|통과 (0.01ms, 10.2MB)|
+|테스트 09|통과 (0.00ms, 10.4MB)|
+|테스트 10|통과 (0.01ms, 10.2MB)|
+|테스트 11|통과 (0.01ms, 10.3MB)|
+|테스트 12|통과 (0.00ms, 10.2MB)|
+
+|Java|Result|
 |:--:|:--:|
 |테스트 01|통과 (0.08ms, 51.7MB)|
 |테스트 02|통과 (0.13ms, 53.1MB)|
@@ -104,9 +103,10 @@ class Solution {
 |테스트 12|통과 (0.05ms, 52.1MB)|
 #
 
-# 2. Level 1 - 완전탐색 / 모의고사
-[문제 2](https://programmers.co.kr/learn/courses/30/lessons/42840)
-## ① Python 구현
+# 모의고사 / 완전탐색 / Level 1
+## ① 문제
+[링크](https://programmers.co.kr/learn/courses/30/lessons/42840)
+## ② 구현
 ```python
 def solution(answers):
     a = [1,2,3,4,5]
@@ -128,24 +128,6 @@ def solution(answers):
             answer.append(i+1)
     return answer
 ```
-## ② Python 결과
-|Test Number|Result|
-|:--:|:--:|
-|테스트 01|통과 (0.01ms, 10.2MB)|
-|테스트 02|통과 (0.01ms, 10.3MB)|
-|테스트 03|통과 (0.01ms, 10.3MB)|
-|테스트 04|통과 (0.01ms, 10.2MB)|
-|테스트 05|통과 (0.03ms, 10.3MB)|
-|테스트 06|통과 (0.03ms, 10.2MB)|
-|테스트 07|통과 (2.93ms, 10.4MB)|
-|테스트 08|통과 (0.70ms, 10.3MB)|
-|테스트 09|통과 (4.62ms, 10.3MB)|
-|테스트 10|통과 (1.50ms, 10.1MB)|
-|테스트 11|통과 (2.74ms, 10.3MB)|
-|테스트 12|통과 (2.52ms, 10.1MB)|
-|테스트 13|통과 (0.20ms, 10.2MB)|
-|테스트 14|통과 (2.75ms, 10.2MB)|
-## ③ Java 구현
 ```java
 import java.util.ArrayList;
 import java.util.List;
@@ -188,8 +170,25 @@ class Solution {
     }
 }
 ```
-## ④ Java 결과
-|Test Number|Result|
+## ③ 결과
+|Python|Result|
+|:--:|:--:|
+|테스트 01|통과 (0.01ms, 10.2MB)|
+|테스트 02|통과 (0.01ms, 10.3MB)|
+|테스트 03|통과 (0.01ms, 10.3MB)|
+|테스트 04|통과 (0.01ms, 10.2MB)|
+|테스트 05|통과 (0.03ms, 10.3MB)|
+|테스트 06|통과 (0.03ms, 10.2MB)|
+|테스트 07|통과 (2.93ms, 10.4MB)|
+|테스트 08|통과 (0.70ms, 10.3MB)|
+|테스트 09|통과 (4.62ms, 10.3MB)|
+|테스트 10|통과 (1.50ms, 10.1MB)|
+|테스트 11|통과 (2.74ms, 10.3MB)|
+|테스트 12|통과 (2.52ms, 10.1MB)|
+|테스트 13|통과 (0.20ms, 10.2MB)|
+|테스트 14|통과 (2.75ms, 10.2MB)|
+
+|Java|Result|
 |:--:|:--:|
 |테스트 01|통과 (8.93ms, 52.1MB)|
 |테스트 02|통과 (6.78ms, 52.4MB)|
@@ -205,3 +204,5 @@ class Solution {
 |테스트 12|통과 (3.29ms, 52.4MB)|
 |테스트 13|통과 (2.83ms, 53.5MB)|
 |테스트 14|통과 (4.81ms, 53.2MB)|
+#
+
