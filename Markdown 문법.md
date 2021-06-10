@@ -153,6 +153,7 @@
 > }
 > ```
 > ~~~
+
 > ```
 > ~~~java
 > public class Project { 
@@ -174,15 +175,24 @@
 
 # 10. Check Box
 ## ① 문법
-```
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
-```
+> ```
+> - [x] Finish my changes
+> - [ ] Push my commits to GitHub
+> - [ ] Open a pull request
+> ```
 ## ② Preview
-- [x] Finished Todo
-- [ ] Not Finished Todo 1
-- [ ] Not Finished Todo 2
+> - [x] Finished Todo
+> - [ ] Not Finished Todo 1
+> - [ ] Not Finished Todo 2
+
+# 11. Emoji
+## ① 문법
+> ```
+> @철수 :+1: 오늘 하루도 즐겁게! :shipit:
+> ```
+> - [Emoji List](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+## ② Preview
+> @철수 :+1: 오늘 하루도 즐겁게! :shipit:
 
 # Conference
 [드림코딩 by 엘리 Youtube](https://www.youtube.com/watch?v=kMEb_BzyUqk)  
