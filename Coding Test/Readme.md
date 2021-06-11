@@ -6,6 +6,9 @@
 # 스택
 [크레인 인형뽑기 게임](https://github.com/blackhoal/Study/blob/main/Coding%20Test/Day/Day%203/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.md)  
 
+# 구현
+[내적](https://github.com/blackhoal/Study/blob/main/Coding%20Test/Day/Day%203/%EB%82%B4%EC%A0%81.md)
+
 # 그리디
 [체육복](https://github.com/blackhoal/Study/blob/main/Coding%20Test/Day/Day%202/%EC%B2%B4%EC%9C%A1%EB%B3%B5.md)
 
