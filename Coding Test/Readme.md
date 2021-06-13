@@ -10,6 +10,7 @@
 [내적](https://github.com/blackhoal/Study/blob/main/Coding%20Test/Day/Day%203/%EB%82%B4%EC%A0%81.md)  
 [음양 더하기](https://github.com/blackhoal/Study/blob/main/Coding%20Test/Day/Day%204/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.md)  
 [로또의 최고 순위와 최저 순위](https://github.com/blackhoal/Study/blob/main/Coding%20Test/Day/Day%204/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84.md)  
+[신규 아이디 추천](https://github.com/blackhoal/Study/blob/main/Coding%20Test/Day/Day%204/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C.md)  
 
 # 그리디
 [체육복](https://github.com/blackhoal/Study/blob/main/Coding%20Test/Day/Day%202/%EC%B2%B4%EC%9C%A1%EB%B3%B5.md)
