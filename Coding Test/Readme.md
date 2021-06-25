@@ -1,3 +1,9 @@
+# 문제 목록
+## 1. Array & LinkedList
+[1337번](https://www.acmicpc.net/problem/1337)
+[5397번](https://www.acmicpc.net/problem/5397)
+[1406번](https://www.acmicpc.net/problem/1406)
+
 # 해시
 [완주하지 못한 선수](https://github.com/blackhoal/Study/blob/main/Coding%20Test/Day/Day%201/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.md)  
 [전화번호 목록](https://github.com/blackhoal/Study/blob/main/Coding%20Test/Day/Day%201/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.md)  
