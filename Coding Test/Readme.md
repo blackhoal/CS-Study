@@ -1,4 +1,9 @@
 # 커리큘럼
+## 자료구조
+1. Array & LinkedList
+2. 
+## 알고리즘
+
 
 # 문제 목록
 ## 1. Array & LinkedList
