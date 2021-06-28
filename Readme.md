@@ -140,13 +140,13 @@
 #
 
 # 4. 자료구조
-## 자료구조 개요  
-## Array / LinkedList  
-## Stack / Queue / Deque  
-## Graph / Tree / Heap  
-## Hash Table
-## 문자열 처리  
-## 기술 면접 정리
+1. 자료구조 개요  
+2. [Array & ArrayList & LinkedList](https://github.com/blackhoal/Study/blob/main/Coding%20Test/Theory/1.%20Array%20%26%20ArrayList%20%26%20LinkedList.md)
+3. Stack / Queue / Deque  
+4. Graph / Tree / Heap  
+5. Hash Table
+6. 문자열 처리  
+7. 기술 면접 정리
 #
 
 # ⑤ 알고리즘
