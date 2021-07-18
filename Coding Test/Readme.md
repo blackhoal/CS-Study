@@ -28,5 +28,9 @@
 [5397번](https://www.acmicpc.net/problem/5397)  
 [1406번](https://www.acmicpc.net/problem/1406)  
 
+# etc
+[1026번](https://www.acmicpc.net/problem/1026)  
+[1181번](https://www.acmicpc.net/problem/1181)  
+[1463](https://www.acmicpc.net/problem/1463)  
 # Conference
 [](https://coding-factory.tistory.com/227?category=794828)
