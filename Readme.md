@@ -143,7 +143,7 @@
 1. 자료구조 개요  
 2. [Array & ArrayList & LinkedList](https://github.com/blackhoal/Study/blob/main/Coding%20Test/Theory/1.%20Array%20%26%20ArrayList%20%26%20LinkedList.md)
 3. Stack / Queue / Deque  
-4. Graph / Tree / Heap  
+4. [Graph / Tree / Heap](https://github.com/blackhoal/Study/blob/main/Coding%20Test/Theory/4.%20Graph%20%26Tree%20%26%20Heap.md)  
 5. Hash Table
 6. 문자열 처리  
 7. 기술 면접 정리
