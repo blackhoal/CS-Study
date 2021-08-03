@@ -1,4 +1,5 @@
 # 1. OSI 7 Layers
+![5-1](https://user-images.githubusercontent.com/48504392/128064183-b9134022-f78a-49ef-ad0c-23e1a1f7cf95.png)
 ## 1-1. 개요
 - 개방형 시스템을 의미하는 Open Systems Interconnection의 약자
 - 1984년 국제 표준화기구(ISO)에서 발표한 규격으로 컴퓨터 네트워크 프로토콜 디자인과 통신을 계층으로 나누어 설명한 것
