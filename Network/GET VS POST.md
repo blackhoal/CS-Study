@@ -40,6 +40,6 @@ http://localhost:8888/addBoard
 |사용 목적|데이터에 대한 조회를 할 때 사용|서버의 상태나 데이터를 변경시킬 때 사용|
 - 멱등 : 동일한 연산을 여러 번 수행하더라도 동일한 결과가 나타나는 것
 
-# Conference
+# Reference
 [참조 1](https://mangkyu.tistory.com/17)  
 [참조 2](https://hongsii.github.io/2017/08/02/what-is-the-difference-get-and-post/)  
