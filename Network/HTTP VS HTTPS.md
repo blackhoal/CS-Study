@@ -21,6 +21,6 @@
 #
 # 3. HTTP VS HTTPS
 
-# Conference
+# Reference
 [참조 1](https://mangkyu.tistory.com/98)  
 [참조 2](https://velog.io/@soosungp33/CS-Network#-rest%EC%99%80-restful%EC%9D%98-%EA%B0%9C%EB%85%90)  
