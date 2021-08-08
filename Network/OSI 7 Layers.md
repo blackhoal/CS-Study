@@ -191,7 +191,7 @@
 - 프로토콜 : HTTP, FTP, DNS, SMTP
 # 
 
-# Conference
+# Reference
 [참조 1](https://ko.wikipedia.org/wiki/OSI_%EB%AA%A8%ED%98%95)  
 [참조 2](https://jhnyang.tistory.com/194)  
 [참조 3](https://neul-carpediem.tistory.com/188)  
