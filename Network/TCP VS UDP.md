@@ -72,7 +72,7 @@
 
 #
 
-# Conference
+# Reference
 [참조 1](https://velog.io/@soosungp33/CS-Network#-tcp%EC%99%80-udp)  
 [참조 2](https://mangkyu.tistory.com/15)  
 [참조 3](https://namu.wiki/w/TCP)  
