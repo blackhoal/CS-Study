@@ -194,6 +194,6 @@
 ## ② Preview
 > @철수 :+1: 오늘 하루도 즐겁게! :shipit:
 
-# Conference
+# Reference
 [드림코딩 by 엘리 Youtube](https://www.youtube.com/watch?v=kMEb_BzyUqk)  
 [https://gist.github.com/ihoneymon/652be052a0727ad59601](https://gist.github.com/ihoneymon/652be052a0727ad59601)

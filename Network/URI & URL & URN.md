@@ -32,6 +32,6 @@
 - URI의 하위 개념으로 URL과 URI가 존재
 - URL은 `리소스의 위치` / URN은 `리소스의 이름`을 표기한 것
 
-# Conference
+# Reference
 [참조 1](https://velog.io/@ss-won/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-URI-URL-URN)  
 [참조 2](https://itbellstone.tistory.com/86)  
