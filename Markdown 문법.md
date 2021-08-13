@@ -113,9 +113,17 @@
 # 7. Image
 ## ① 문법
 > ```
+> <!-- Default -->
 > ![Image Description](이미지 주소)  
+> 
+> <!-- 크기 변경 1 -->
 > <img src = "이미지 주소" height = "300px" title = "크기 변경 1" alt = "Slowpoke"></img><br/>
+> 
+> <!-- 크기 변경 2 -->
 > <img src = "이미지 주소" width = "40%" height = "30%" title = "크기 변경 2" alt = "Slowpoke"></img>
+> 
+> <!-- 이미지 중앙 정렬 -->
+> <p align="center"><img src="이미지 주소"></p>
 > ```
 ## ② Preview
 > ![Image Description](https://static.wikia.nocookie.net/pokemon/images/1/18/%EC%95%BC%EB%8F%88_%EA%B3%B5%EC%8B%9D_%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8.png/revision/latest/scale-to-width-down/200?cb=20170405020231&path-prefix=ko)  
@@ -123,6 +131,8 @@
 > <img src = "https://static.wikia.nocookie.net/pokemon/images/1/18/%EC%95%BC%EB%8F%88_%EA%B3%B5%EC%8B%9D_%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8.png/revision/latest/scale-to-width-down/200?cb=20170405020231&path-prefix=ko" height = "300px" title = "크기 변경 1" alt = "Slowpoke"></img><br/>
 
 > <img src = "https://static.wikia.nocookie.net/pokemon/images/1/18/%EC%95%BC%EB%8F%88_%EA%B3%B5%EC%8B%9D_%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8.png/revision/latest/scale-to-width-down/200?cb=20170405020231&path-prefix=ko" width = "40%" height = "30%" title = "크기 변경 2" alt = "Slowpoke"></img>
+
+> <p align="center"><img src="https://static.wikia.nocookie.net/pokemon/images/1/18/%EC%95%BC%EB%8F%88_%EA%B3%B5%EC%8B%9D_%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8.png/revision/latest/scale-to-width-down/200?cb=20170405020231&path-prefix=ko"></p>
 #
 
 # 8. Table
@@ -185,12 +195,29 @@
 > - [ ] Not Finished Todo 1
 > - [ ] Not Finished Todo 2
 
-# 11. Emoji
+# 11. 접기 / 펼치기
+## ① 문법
+> ```
+> <details>
+> <summary>더보기</summary>
+> 내용
+> </details>
+> ```
+
+## ② Preview
+
+> <details>
+> <summary>더보기</summary>
+> 내용
+> </details>
+
+#
+# 12. Emoji
 ## ① 문법
 > ```
 > @철수 :+1: 오늘 하루도 즐겁게! :shipit:
 > ```
-> - [Emoji List](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+> - [Emoji 목록](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 ## ② Preview
 > @철수 :+1: 오늘 하루도 즐겁게! :shipit:
 
