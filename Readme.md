@@ -10,6 +10,15 @@
 - [X] [Cookie VS Session]()
 - [ ] [3 way handshake & 4 way handshake]()
 - [ ] [공개키 암호화 VS 대칭키 암호화]()
+## 네트워크 기타
+- [ ] 라우팅 프로토콜
+- [ ] OSPF
+- [ ] stp
+- [ ] err-Disable
+- [ ] lsa
+- [ ] 백본 구성
+- [ ] 이더채널
+- [ ] 백플레인
 #
 
 # 2. 운영체제(Operating System)
