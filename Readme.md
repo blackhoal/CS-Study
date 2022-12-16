@@ -3,7 +3,7 @@
 - [X] [GET VS POST]()
 - [X] [URI VS URL VS URN]()
 - [X] [HTTP Status Code]()
-- [ ] [HTTP VS HTTPS]()
+- [ ] [HTTP VS HTTPS](https://github.com/blackhoal/CS-Study/blob/main/Network/HTTP%20VS%20HTTPS.md)
 - [X] [TCP VS UDP]()
 - [X] [How does the Internet & Web work]()
 - [X] [DNS]()
