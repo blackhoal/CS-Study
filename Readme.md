@@ -1,4 +1,4 @@
-# 1. 네트워크(Network)  
+# 1. 네트워크(Network)
 - [X] [OSI 7 Layers]()
 - [X] [GET VS POST]()
 - [X] [URI VS URL VS URN]()
