@@ -28,22 +28,11 @@
 [5397번](https://www.acmicpc.net/problem/5397)  
 [1406번](https://www.acmicpc.net/problem/1406)  
 
-## 별찍기
-[2438번](https://www.acmicpc.net/problem/2438)  
-[2439번](https://www.acmicpc.net/problem/2439)  
-[2440번](https://www.acmicpc.net/problem/2440)  
-[2441번](https://www.acmicpc.net/problem/2441)  
-[2442번](https://www.acmicpc.net/problem/2442)  
-[2443번](https://www.acmicpc.net/problem/2443)  
-[2444번](https://www.acmicpc.net/problem/2444)  
-[2445번](https://www.acmicpc.net/problem/2445)  
-[2446번](https://www.acmicpc.net/problem/2446)  
-[2447번](https://www.acmicpc.net/problem/2447)  
-[2448번](https://www.acmicpc.net/problem/2448)  
-
 # etc
 [1026번](https://www.acmicpc.net/problem/1026)  
 [1181번](https://www.acmicpc.net/problem/1181)  
 [1463번](https://www.acmicpc.net/problem/1463)  
+[별찍기](https://github.com/blackhoal/CS-Study/blob/main/Coding%20Test/Solved/%EB%B3%84%EC%B0%8D%EA%B8%B0.md)  
+
 # Conference
 [](https://coding-factory.tistory.com/227?category=794828)
