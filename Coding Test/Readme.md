@@ -13,7 +13,9 @@
 ### 1. 알고리즘 개요
 - 시간 복잡도 & 공간 복잡도
 ### 2. 시간 복잡도가 O(n^2)인 정렬 - 삽입 정렬 / 선택 정렬 / 거품 정렬
-### 3. 시간 복잡도가 O(nlogn)인 정렬 - 퀵 정렬 / 병합 정렬 / 힙 정렬
+[O(N^2) Sort](https://github.com/blackhoal/CS-Study/blob/main/Coding%20Test/Theory/6.%20O(N%5E2)%20Sort.md)  
+### 3. 시간 복잡도가 O(nlogn)인 정렬 - 퀵 정렬 / 병합 정렬
+[O(nlogn) Sort]()
 ### 4. 순차 탐색 / 이진 탐색
 ### 5. 완전 탐색(브루트포스)
 ### 6. 탐욕 알고리즘(그리디)
@@ -34,5 +36,6 @@
 [1463번](https://www.acmicpc.net/problem/1463)  
 [별찍기](https://github.com/blackhoal/CS-Study/blob/main/Coding%20Test/Solved/%EB%B3%84%EC%B0%8D%EA%B8%B0.md)  
 
-# Conference
+# Reference
 [](https://coding-factory.tistory.com/227?category=794828)
+[](https://www.daleseo.com/?tag=algorithm)
