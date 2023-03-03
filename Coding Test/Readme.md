@@ -13,7 +13,7 @@
 ### 1. 알고리즘 개요
 - 시간 복잡도 & 공간 복잡도
 ### 2. 시간 복잡도가 O(n^2)인 정렬 - 삽입 정렬 / 선택 정렬 / 거품 정렬
-[O(N^2) Sort](https://github.com/blackhoal/CS-Study/blob/main/Coding%20Test/Theory/6.%20O(N%5E2)%20Sort.md)  
+[O(N^2) Sort](https://github.com/blackhoal/CS-Study/blob/main/Coding%20Test/Theory/O(N%5E2)%20Sort.md)  
 ### 3. 시간 복잡도가 O(nlogn)인 정렬 - 퀵 정렬 / 병합 정렬
 [O(nlogn) Sort]()
 ### 4. 순차 탐색 / 이진 탐색
