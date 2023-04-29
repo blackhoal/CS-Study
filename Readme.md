@@ -21,7 +21,7 @@
 - [ ] 이더채널
 - [ ] 백플레인
 #
-
+ 
 # 2. 운영체제(Operating System)
 - [X] [Process VS Thread]()
 - [ ] [스케줄러 / CPU 스케줄링]()
