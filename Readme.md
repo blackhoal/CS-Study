@@ -1,6 +1,6 @@
 # 1. 네트워크(Network) 
 - [X] [OSI 7 Layers]() 
-- [X] [GET VS POST]()
+- [X] [GET VS POST]() 
 - [X] [URI VS URL VS URN]()
 - [X] [HTTP Status Code]()
 - [ ] [HTTP VS HTTPS](https://github.com/blackhoal/CS-Study/blob/main/Network/HTTP%20VS%20HTTPS.md)
